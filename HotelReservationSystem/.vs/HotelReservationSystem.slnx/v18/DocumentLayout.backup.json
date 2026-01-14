@@ -1,0 +1,396 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\muham\\source\\repos\\hotelreservationsystem\\hotelreservationsystem\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\muham\\source\\repos\\hotelreservationsystem\\hotelreservationsystem\\models\\enums\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\models\\enums\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\muham\\source\\repos\\hotelreservationsystem\\hotelreservationsystem\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\muham\\source\\repos\\hotelreservationsystem\\hotelreservationsystem\\models\\enums\\reporttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\models\\enums\\reporttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\muham\\source\\repos\\hotelreservationsystem\\hotelreservationsystem\\models\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\models\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\muham\\source\\repos\\hotelreservationsystem\\hotelreservationsystem\\models\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\models\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\muham\\source\\repos\\hotelreservationsystem\\hotelreservationsystem\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\muham\\source\\repos\\hotelreservationsystem\\hotelreservationsystem\\models\\feedbackresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\models\\feedbackresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\muham\\source\\repos\\hotelreservationsystem\\hotelreservationsystem\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\muham\\source\\repos\\hotelreservationsystem\\hotelreservationsystem\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\muham\\source\\repos\\hotelreservationsystem\\hotelreservationsystem\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\muham\\source\\repos\\hotelreservationsystem\\hotelreservationsystem\\models\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\models\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\muham\\source\\repos\\hotelreservationsystem\\hotelreservationsystem\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\muham\\source\\repos\\hotelreservationsystem\\hotelreservationsystem\\models\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\models\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\muham\\source\\repos\\hotelreservationsystem\\hotelreservationsystem\\models\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\models\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\muham\\source\\repos\\hotelreservationsystem\\hotelreservationsystem\\models\\roomfacilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\models\\roomfacilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\muham\\source\\repos\\hotelreservationsystem\\hotelreservationsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\muham\\source\\repos\\hotelreservationsystem\\hotelreservationsystem\\hotelreservationsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\hotelreservationsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\muham\\source\\repos\\hotelreservationsystem\\hotelreservationsystem\\models\\enums\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\models\\enums\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\muham\\source\\repos\\hotelreservationsystem\\hotelreservationsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\muham\\source\\repos\\hotelreservationsystem\\hotelreservationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DDCF67-F183-A1AE-2C21-1A1351FA40D1}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Payment.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Models\\Payment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T00:31:33.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Enums\\PaymentStatus.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Models\\Enums\\PaymentStatus.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Enums\\PaymentStatus.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Models\\Enums\\PaymentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T00:33:46.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Enums\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Models\\Enums\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Enums\\PaymentMethod.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Models\\Enums\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T00:33:18.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportType.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Enums\\ReportType.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Models\\Enums\\ReportType.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Enums\\ReportType.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Models\\Enums\\ReportType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:28:30.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Models\\Report.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Report.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Models\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:25:43.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Room.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Models\\Room.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T21:55:10.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Enums\\RoomType.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Models\\Enums\\RoomType.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Enums\\RoomType.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Models\\Enums\\RoomType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T21:55:59.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FeedbackResponse.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\FeedbackResponse.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Models\\FeedbackResponse.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\FeedbackResponse.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Models\\FeedbackResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T00:26:24.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\BaseModel.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T21:29:15.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Feedback.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Models\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T00:14:37.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Staff.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Models\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T21:43:58.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Models\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Enums\\UserRole.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Models\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T21:32:15.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Reservation.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:13:49.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Offer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Offer.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Models\\Offer.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Offer.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Models\\Offer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:20:28.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Facility.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Facility.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Models\\Facility.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Facility.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Models\\Facility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:19:40.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RoomFacilities.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\RoomFacilities.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Models\\RoomFacilities.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\RoomFacilities.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Models\\RoomFacilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T01:39:24.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Customer.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T21:37:38.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HotelReservationSystem",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\HotelReservationSystem.csproj",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\HotelReservationSystem.csproj",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\HotelReservationSystem.csproj",
+              "RelativeToolTip": "HotelReservationSystem\\HotelReservationSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-13T22:15:48.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReservationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Enums\\ReservationStatus.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Models\\Enums\\ReservationStatus.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\Enums\\ReservationStatus.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Models\\Enums\\ReservationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:16:12.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Models\\User.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T21:30:56.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\Program.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T21:21:14.275Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
